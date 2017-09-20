@@ -1,0 +1,3 @@
+com\bots\business\controller\GreetingController.class
+com\bots\business\MyBotStarter.class
+com\bots\business\service\MyBotServiceImpl.class
